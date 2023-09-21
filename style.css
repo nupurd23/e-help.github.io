@@ -1,0 +1,156 @@
+nav{
+    display: flex;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray ;
+}
+nav ul li{
+    list-style: none;
+}
+
+nav ul{
+    display: flex;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 18px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav button a{
+    text-decoration: none;
+    color: red;
+}
+nav button{
+    margin-left: 180px;
+    cursor: pointer;
+   color: red;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    border-radius: 1.563rem;
+    width: 150px;
+    /* margin-left: 1.563rem; */
+    border: 0rem;
+    text-decoration: none;
+}
+
+#registerbtn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#registerani :hover{
+    /* color: green; */
+    font-family: cursive;
+}
+
+video{
+    height: 400px;
+    width: 800px;
+  
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.homeimage{
+    background-color: gainsboro;
+    border-radius: 25px;
+    margin: 19px;
+    height: 444px;
+}
+.conatiner1{
+    height: 500px;
+    /* display: inline-flex; */
+    
+}
+.clinicconsult{
+    margin-bottom: 30px;
+}
+div a img{
+    height: 220px;
+    width: 275px;
+    border-radius: 10px;
+    /* margin-left: 120px; */
+    /* margin-bottom: 40px; */
+    display: inline-flex;
+}
+div h3{
+    margin-left: 30px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(63, 63, 105);
+    
+}
+.dochead{
+    margin-top: 0px;
+    margin-left: 30px;
+    font-size: 17px;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    color: rgb(63, 63, 105);
+    font-family: 'Times New Roman', Times, serif;
+}
+.consultation{
+    display: inline;
+}
+
+.align{
+    height: 300px;
+    width: 250px;
+    margin-left: 45px;
+    /* text-decoration: none; */
+}
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    
+}
+.box1{
+    display: inline-flex;
+}
+.border{
+    margin-top: 35px;
+    /* border: 14px solid gainsboro; */
+    border-radius: 20px;
+}
+span{
+    font-size: 13px;
+    font-weight: lighter;
+    color: gray;
+}
+
+.toparticle{
+    display: inline-flex;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.photos{
+    display: inline-flex;
+    margin: 15px;
+    /* border-radius: 15px; */
+}
+.photo1{
+    margin-right: 33px;
+    /* border-radius: 5px; */
+}
+.writtentext{
+    margin-left: 100px;
+    color:rgb(63, 63, 105) ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#toparticlehead{
+    font-size: 40px;
+}
+
+footer{
+    height: 200px;
+    background-color:rgb(63, 63, 105) ;
+}
+#footerline{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 460px;
+    margin-top: 40px;
+}

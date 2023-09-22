@@ -1,0 +1,36 @@
+.heading{
+    margin-left: 500px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(48, 48, 118);
+}
+.info{
+    margin-left: 20px;
+    width: 550px;
+    border: 2px solid gray;
+    border-radius: 15px;
+}
+#chadha{
+    margin-left: 40px;
+    color:rgb(126, 126, 126);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.doctorinfo{
+    margin-left: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(48, 48, 118);
+    font-size: 20px;
+}
+.hospitalinfo{
+    margin-left: 40px;
+    color:rgb(126, 126, 126);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.googlemap{
+    margin-top: 8px;
+    margin-left: 30px;
+    width: 400px;
+}
+.newcontainer{
+    display: inline-flex;
+    margin-bottom: 30px;
+}

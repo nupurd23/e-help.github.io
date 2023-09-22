@@ -1,7 +1,7 @@
 nav{
     display: flex;
     padding-bottom: 10px;
-    border-bottom: 1px solid gray ;
+    border-bottom: 1px solid rgb(190, 190, 190) ;
 }
 nav ul li{
     list-style: none;
@@ -52,7 +52,7 @@ video{
     margin-left: 50px;
 }
 .homeimage{
-    background-color: gainsboro;
+    background-color: rgb(245, 245, 245);
     border-radius: 25px;
     margin: 19px;
     height: 444px;

@@ -1,14 +1,14 @@
 form{
-    border: 2px solid rgb(48, 48, 118);
+   
     border-radius: 10px;
     background-repeat: no-repeat;
     background-size: cover;
-    
-    /* /* background-size: contain; */
-    background-position: right 50% bottom 75%; 
+  
+    background-image: url('https://plus.unsplash.com/premium_photo-1687814802430-9281bfcfb89c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2060&q=80');
+   
     margin: 10px;
     padding: 10px;
-    background-image: url('e-help\ logo.png');
+   
 }
 h1{
     margin-left: 433px;
@@ -19,6 +19,7 @@ h1{
 input{
     border-color:  rgb(48, 48, 118);
     border-radius: 15px;
+    
     font-size: 15px;
    padding: 14px;
    margin-left: 50px;
@@ -29,6 +30,8 @@ input{
 
 
 select{
+    
+    color: black;
     border-color:  rgb(48, 48, 118);
     border-radius: 15px;
     font-size: 15px;
@@ -54,6 +57,8 @@ select{
     padding-right: 67px;
 }
 textarea{
+    /* background-color: rgb(219, 219, 219); */
+    color: black;
     border-color:  rgb(48, 48, 118);
     padding: 15px;
     border-radius: 25px;

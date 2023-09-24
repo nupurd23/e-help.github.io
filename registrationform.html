@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Registration Form</h1>
-    <form action="">
+    <form th:action="@{/save}" method="post">
         <p><input type="text" name="name" id="" placeholder="Enter Your Name" required>
              
             <select name="age" id="">
@@ -23,11 +23,11 @@
             </select>
         <p>
             <input type="date" name="Dob" id="" placeholder="Date of Birth" required>
-            <input type="text" name="Phone" id="" placeholder="Phone Number" required>
+            <input type="text" name="phn" id="" placeholder="Phone Number" required>
         </p>
         <p>
             <input type="email" name="email" id="" placeholder="E-Mail" required>
-        <input type="text" name="consultation for" id="" placeholder="Consultation For" required>
+        <input type="text" name="consult" id="" placeholder="Consultation For" required>
         </p>
    
        

@@ -4,14 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="gynestyle.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="register.css">
     <title>E-Help Registration form</title>
 </head>
 <body>
+    <div class="navigate">
+        <nav class="navbar">
+            <img src="e-help logo.png" alt="logo" width="180px" height="50px">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="">Consultation</a></li>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Lab Tests</a></li>
+                <li><a href="">Help</a></li>
+            </ul>
+            
+        </nav>
+    </div>
     <h1>Registration Form</h1>
     <form action="">
-        <p><input type="text" name="name" id="" placeholder="Enter Your Name" required>
+        <p><input type="text" name="name" id="name" placeholder="Enter Your Name" required>
              
-            <select name="age" id="">
+            <select name="age" id="selction">
                 <option value="">Select Your age</option>
                 <option value="">0-9 months</option>
                 <option value="">1-5 years</option>
@@ -22,21 +38,28 @@
 
             </select>
         <p>
-            <input type="date" name="Dob" id="" placeholder="Date of Birth" required>
-            <input type="text" name="Phone" id="" placeholder="Phone Number" required>
+            <input type="date" name="Dob" id="dob" placeholder="Date of Birth" required>
+            <input type="text" name="Phone" id="phn" placeholder="Phone Number" required>
         </p>
         <p>
-            <input type="email" name="email" id="" placeholder="E-Mail" required>
-        <input type="text" name="consultation for" id="" placeholder="Consultation For" required>
+            <input type="email" name="email" id="email" placeholder="E-Mail" required>
+        <input type="text" name="consultation for" id="consultation" placeholder="Consultation For" required>
         </p>
    
        
-        
-        <input type="text" name="address" placeholder="Permanent Address"  >
+        <textarea name="address" id="address" placeholder="Permanent Address" cols="73" rows="6"></textarea>
+        <!-- <input type="text" name="address" id="address" placeholder="Permanent Address"  > -->
         <!-- <p> <button type="submit">SUBMIT</button></p> -->
-        <input type="submit">
+        <p>
+        <input id="submit" type="submit"></p>
        
 
     </form>
+    <footer>
+        <div class="logofooter">
+        <img src="e-help logo.png" alt="" height="70px" style="margin-left: 540px; margin-top: 30px;">
+    </div>
+    <p id="footerline">Copyright &copy; 2023 , E-HELP.All Rights Reserved</p>
+    </footer>
 </body>
 </html>

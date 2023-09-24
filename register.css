@@ -1,0 +1,74 @@
+form{
+    border: 2px solid rgb(48, 48, 118);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* /* background-size: contain; */
+    background-position: right 50% bottom 75%; 
+    margin: 10px;
+    padding: 10px;
+    background-image: url('e-help\ logo.png');
+}
+h1{
+    margin-left: 433px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(48, 48, 118);
+    font-size: 40px;
+}
+input{
+    border-color:  rgb(48, 48, 118);
+    border-radius: 15px;
+    font-size: 15px;
+   padding: 14px;
+   margin-left: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+select{
+    border-color:  rgb(48, 48, 118);
+    border-radius: 15px;
+    font-size: 15px;
+        padding: 14px;
+        margin-left: 53px;
+        padding-left: 63px;
+        padding-right: 63px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#name{
+    margin-left: 300px;
+}
+#phn{
+    margin-left: 60px;
+}
+#email{
+    margin-left: 300px;
+}
+#dob{
+    border-radius: 15px;
+    margin-left: 300px;
+    padding-left: 67px;
+    padding-right: 67px;
+}
+textarea{
+    border-color:  rgb(48, 48, 118);
+    padding: 15px;
+    border-radius: 25px;
+    font-size: 15px;
+    margin-left: 300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#submit{
+    border-color:  rgb(48, 48, 118);
+    cursor: pointer;
+    margin-left: 520px;
+    background-color:  rgb(48, 48, 118);
+    color: aliceblue;
+    padding-left: 52px;
+    padding-right: 52px;
+   border-radius: 25px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

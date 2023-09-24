@@ -1,0 +1,18 @@
+
+.successbox{
+    border: 5px solid black;
+    width: 800px;
+    margin-top: 80px;
+    margin-left: 200px;
+    border-radius: 20px;
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(100, 164, 4,0.5);
+    border-color: rgb(98, 171, 98);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.successcontainer{
+    height: 320px;
+    
+}

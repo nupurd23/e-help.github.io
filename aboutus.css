@@ -1,0 +1,38 @@
+
+h1{
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 470px;
+    color: rgb(69, 62, 127);
+    font-size: 46px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.headinggg{
+    margin-left: 420px;
+    /* font-size: 40px; */
+}
+.about{
+    display: inline-flex;
+    
+}
+.textcontainer{
+    border: 2px solid gainsboro;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('https://media.istockphoto.com/id/914490884/photo/doctor-in-hospital-background-with-copy-space.webp?b=1&s=170667a&w=0&k=20&c=BARbB2B-8mqT7XIIXHGeScGu5LrPGkBuI0GZ-NiF4wE=');
+    background-size: cover;
+    color: rgb(32, 33, 35);
+}
+#textdec{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+    margin-left: 450px;
+    color: rgb(92, 92, 99);
+    font-size: 15px;
+    font-weight: bold;
+}

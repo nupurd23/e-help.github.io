@@ -1,0 +1,31 @@
+h1{
+    margin-left: 400px;
+    color: rgb(58, 58, 110);
+    font-size: 40px;
+}
+p{
+    /* margin: 60px; */
+    margin-left: 60px;
+   
+    margin-right: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(80, 78, 78);
+    font-size: 20px;
+}
+h4{
+ margin-left: 90px;
+ /* margin: 60px; */
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: rgb(58, 58, 110);
+    font-size: 30px;
+
+}
+span ul li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(80, 78, 78);
+    font-size: 20px;
+    margin-left: 60px;
+   
+    margin-right: 60px;
+    
+}
